@@ -12,7 +12,7 @@
 
 ViHeadline áp dụng mô hình [<b>BERTSUM</b>](https://arxiv.org/abs/1908.08345) cho bài toàn sinh tiêu tự động theo hướng tiếp cập tóm tắt trích yếu (Abstractive Summarization). Mô hình tận dụng sức mạnh các mô hình ngôn ngữ BERT và các biến thể của nó đã được huấn luyện trước trên các tập dữ liệu lớn, kết hợp một số kỹ thuật tinh chỉnh kiến trúc giúp mở rộng khả năng biểu diễn văn bản với nội dung chứa nhiều cầu. Chi tiết tham khảo tại bài [<b>Text Summarization with Pretrained Encoders</b>](https://arxiv.org/abs/1908.08345)
 
-Code được xây dựng dựa trên nguồn <b>PreSumm</b>(https://github.com/nlpyang/PreSumm) và <b>OpenNMT</b>(https://github.com/OpenNMT/OpenNMT-py)
+Code được xây dựng dựa trên nguồn [<b>PreSumm</b>](https://github.com/nlpyang/PreSumm) và [<b>OpenNMT</b>](https://github.com/OpenNMT/OpenNMT-py)
 
 ## Installation
 Requirements:
