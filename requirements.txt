@@ -1,0 +1,7 @@
+multiprocess==0.70.9
+tqdm==4.62.0
+transformers==4.8.2
+vncorenlp==1.0.3
+torch==1.9.0
+tensorboardX==2.4
+pyrouge==0.1.3
