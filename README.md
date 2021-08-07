@@ -21,7 +21,7 @@ Requirements:
 - Transformers 4.8.2+
 - TensorboardX 2.4+
 - VnCoreNLP (Nếu sử dụng PhoBERT cho encoder)
-- Pyrouge 0.1.3+ (Có thể tham khảo việc install tại https://github.com/bheinzerling/pyrouge và https://github.com/andersjo/pyrouge)
+- Pyrouge 0.1.3+ (Có thể tham khảo việc install tại [<b>bheinzerling/pyrouge</b>](https://github.com/bheinzerling/pyrouge) và [<b>andersjo/pyrouge</b>](https://github.com/andersjo/pyrouge)
 
 Install dependencies:
 `
